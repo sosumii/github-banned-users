@@ -1,0 +1,14 @@
+#[Blocked Github users]
+# Version: 1.1
+# Title: Blocked Github users
+# Last modified: 2017-05-11
+# Homepage: http://sosumii.420yolo.co
+# License: http://sosumii.420yolo.co
+#
+# GitHub: https://github.com/sosumii/github-banned-users
+# GitHub pull requests: https://github.com/sosumii/github-banned-users/pulls
+#
+# ----------------------------------------------
+
+@gsong          # replaced Handbrake with trojan in /caskroom/homebrew-cask/pull/33354. Github users domain names on profile are all offline.
+@Darelbi        # possible critical-theory bot spouts disorienting bullshit regarding RSA and PKI.
