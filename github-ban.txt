@@ -12,3 +12,4 @@
 
 @gsong          # replaced Handbrake with trojan in /caskroom/homebrew-cask/pull/33354. Github users domain names on profile are all offline.
 @Darelbi        # possible critical-theory bot spouts disorienting bullshit regarding RSA and PKI.
+@0xABAB         # ass-hole banned from multiple projects
